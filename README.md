@@ -7,9 +7,9 @@
 
 ## 💎 뚱구리의 소소한 취미
 
-- [<img width="3%" src="https://user-images.githubusercontent.com/113741801/190888324-2208f599-c903-4bac-a9cb-3c0826bc8dc4.png"/>](https://www.youtube.com/channel/UCZwO8ESX1ZS-rpY4nl97VDA)
+- 소소한 기록 [<img width="3%" src="https://user-images.githubusercontent.com/113741801/190888324-2208f599-c903-4bac-a9cb-3c0826bc8dc4.png"/>](https://www.youtube.com/channel/UCZwO8ESX1ZS-rpY4nl97VDA)
 
-- [<img width="3%" src="https://user-images.githubusercontent.com/113741801/190888809-39cb6dcc-9f03-4332-8c98-4ca71ac5a514.png"/>](https://blog.naver.com/chicyunaa)
+- 즐거운 일상 [<img width="3%" src="https://user-images.githubusercontent.com/113741801/190888809-39cb6dcc-9f03-4332-8c98-4ca71ac5a514.png"/>](https://blog.naver.com/chicyunaa)
   
   
   <!--
