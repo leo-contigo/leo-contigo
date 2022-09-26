@@ -2,6 +2,9 @@
 # **데이터 분석가를 꿈꾸는 꿈나무🌱**
 
 [![Youtube Badge](https://img.shields.io/badge/Youtube-ff0000?style=flat-square&logo=youtube&link=https://www.youtube.com/channel/UCZwO8ESX1ZS-rpY4nl97VDA)](https://www.youtube.com/channel/UCZwO8ESX1ZS-rpY4nl97VDA)
+
+[![N blog](https://img.shields.io/badge/-N%20blog-green?&link=https://blog.naver.com/chicyunaa)](https://blog.naver.com/chicyunaa)
+        
 - ### 📘 부산대학교 AI빅데이터 양성과정 수업중
 >- ✔수업시간 배운 내용 복습은 티스토리 블로그에!
 >- ✔파이썬 → 판다스, 크롤링, 시각화 → 머신러닝 → 딥러닝 과정인데 ... 😭
