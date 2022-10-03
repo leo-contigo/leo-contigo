@@ -12,7 +12,7 @@
 <img src="https://img.shields.io/badge/Python-1b303f?style=flat-square&logo=Python&logoColor=white"/></a> 
 <img src="https://img.shields.io/badge/Numpy-4d77cf?style=flat-square&logo=Numpy&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Pandas-130754?style=flat-square&logo=Pandas&logoColor=white"/></a>
-
+<img src="https://img.shields.io/badge/tensorflow-ff8500?style=flat-square&logo=tensorflow&logoColor=white"/></a>
 <br>
 <br>
 <br>
