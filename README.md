@@ -5,8 +5,9 @@
 ### **📘 부산대학교 AI빅데이터 양성과정 수업중**
 <br>
 
->- ✔수업시간 배운 내용 복습은 티스토리 블로그에!
->- ✔파이썬 → 판다스, 크롤링, 시각화 → 머신러닝 → 딥러닝 과정인데 ... 😭<br>
+>✔수업시간 배운 내용 복습은 티스토리 블로그에!<br>
+><br>
+>✔파이썬 → 판다스, 크롤링, 시각화 → 머신러닝 → 딥러닝 과정인데 ... 😭<br>
 <br>
 
 <img src="https://img.shields.io/badge/Python-1b303f?style=flat-square&logo=Python&logoColor=white"/></a> 
