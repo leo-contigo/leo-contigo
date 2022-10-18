@@ -22,7 +22,7 @@
 ## 💎 뚱구리의 소소한 취미
 
 [![Youtube Badge](https://img.shields.io/badge/Youtube-ff0000?style=flat-square&logo=youtube&link=https://www.youtube.com/channel/UCZwO8ESX1ZS-rpY4nl97VDA)](https://www.youtube.com/channel/UCZwO8ESX1ZS-rpY4nl97VDA)
-<a href="https://blog.naver.com/chicyunaa" target="_blank"><img src="https://img.shields.io/badge/blog-28e374?style=flat-nanum&logo=Naver&logoColor=white"/></a>
+<a href="https://blog.naver.com/leo-contigo" target="_blank"><img src="https://img.shields.io/badge/blog-28e374?style=flat-nanum&logo=Naver&logoColor=white"/></a>
 
 <br>
 <br>
