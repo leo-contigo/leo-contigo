@@ -10,10 +10,10 @@
 <br>
 
 
-<img src="https://img.shields.io/badge/Python-1b303f?style=flat-square&logo=Python&logoColor=white"/></a> 
-<img src="https://img.shields.io/badge/Numpy-4d77cf?style=flat-square&logo=Numpy&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/Pandas-130754?style=flat-square&logo=Pandas&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/tensorflow-ff8500?style=flat-square&logo=tensorflow&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/Python-1b303f?style=flat-square&logo=Python&logoColor=white" weight = 20, height = 30/></a> 
+<img src="https://img.shields.io/badge/Numpy-4d77cf?style=flat-square&logo=Numpy&logoColor=white" weight = 20, height = 30/></a>
+<img src="https://img.shields.io/badge/Pandas-130754?style=flat-square&logo=Pandas&logoColor=white" weight = 20, height = 30/></a>
+<img src="https://img.shields.io/badge/tensorflow-ff8500?style=flat-square&logo=tensorflow&logoColor=white" weight = 20, height = 30/></a>
 <br>
 <br>
 <br>
@@ -21,8 +21,9 @@
 
 ## 💎 뚱구리의 소소한 취미
 
-[![Youtube Badge](https://img.shields.io/badge/Youtube-ff0000?style=flat-square&logo=youtube&link=https://www.youtube.com/channel/UCZwO8ESX1ZS-rpY4nl97VDA)](https://www.youtube.com/channel/UCZwO8ESX1ZS-rpY4nl97VDA)
-<a href="https://blog.naver.com/leo-contigo" target="_blank"><img src="https://img.shields.io/badge/blog-28e374?style=flat-nanum&logo=Naver&logoColor=white"/></a>
+
+<a href="https://www.youtube.com/channel/UCZwO8ESX1ZS-rpY4nl97VDA" target="_blank"><img src="https://img.shields.io/badge/youtube-FF0000?style=flat-nanum&logo=youtube&logoColor=white"  weight = 20, height = 30/></a>
+<a href="https://blog.naver.com/leo-contigo" target="_blank"><img src="https://img.shields.io/badge/blog-28e374?style=flat-nanum&logo=Naver&logoColor=white"  weight = 20, height = 30/></a>
 
 <br>
 <br>
@@ -39,6 +40,8 @@
 - ✔소소한 기록 [<img width="3%" src="https://user-images.githubusercontent.com/113741801/190888324-2208f599-c903-4bac-a9cb-3c0826bc8dc4.png"/>](https://www.youtube.com/channel/UCZwO8ESX1ZS-rpY4nl97VDA)
 
 - ✔즐거운 일상 [<img width="3%" src="https://user-images.githubusercontent.com/113741801/190888809-39cb6dcc-9f03-4332-8c98-4ca71ac5a514.png"/>](https://blog.naver.com/chicyunaa)
+
+유튜브 링크 [![Youtube Badge](https://img.shields.io/badge/Youtube-ff0000?style=flat-square&logo=youtube&link=https://www.youtube.com/channel/UCZwO8ESX1ZS-rpY4nl97VDA)](https://www.youtube.com/channel/UCZwO8ESX1ZS-rpY4nl97VDA )
 
 - 배지 사이트 : https://shields.io/
 - 아이콘 : https://simpleicons.org/?q=you
