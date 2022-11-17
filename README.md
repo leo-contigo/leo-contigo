@@ -19,12 +19,6 @@
 <br>
 <br>
 
-## 💎 뚱구리의 소소한 취미
-
-
-<a href="https://www.youtube.com/channel/UCZwO8ESX1ZS-rpY4nl97VDA" target="_blank"><img src="https://img.shields.io/badge/youtube-FF0000?style=flat-nanum&logo=youtube&logoColor=white"  weight = 20, height = 30/></a>
-<a href="https://blog.naver.com/leo-contigo" target="_blank"><img src="https://img.shields.io/badge/blog-28e374?style=flat-nanum&logo=Naver&logoColor=white"  weight = 20, height = 30/></a>
-
 <br>
 <br>
 <br>
@@ -34,7 +28,27 @@
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fleo-contigo&count_bg=%2379C83D&title_bg=%23555555&icon=shell.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
+
+
+
 <!--  숨김 내용
+## 💎 뚱구리의 소소한 취미
+
+
+<a href="https://www.youtube.com/channel/UCZwO8ESX1ZS-rpY4nl97VDA" target="_blank"><img src="https://img.shields.io/badge/youtube-FF0000?style=flat-nanum&logo=youtube&logoColor=white"  weight = 20, height = 30/></a>
+<a href="https://blog.naver.com/leo-contigo" target="_blank"><img src="https://img.shields.io/badge/blog-28e374?style=flat-nanum&logo=Naver&logoColor=white"  weight = 20, height = 30/></a>
+<br>
+<br>
+<br>
+<br>
+<br>
+
+
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fleo-contigo&count_bg=%2379C83D&title_bg=%23555555&icon=shell.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+
+
+--- 여기까지 사용 ↑
+
   ## 💎 뚱구리의 소소한 취미
 
 - ✔소소한 기록 [<img width="3%" src="https://user-images.githubusercontent.com/113741801/190888324-2208f599-c903-4bac-a9cb-3c0826bc8dc4.png"/>](https://www.youtube.com/channel/UCZwO8ESX1ZS-rpY4nl97VDA)
