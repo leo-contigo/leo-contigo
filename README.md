@@ -1,14 +1,11 @@
 
 # **데이터 분석가를 꿈꾸는 꿈나무🌱**
-
-        
 <br>
 
-✔ 수업시간 배운 내용 복습은 티스토리 블로그에!<br>
+- 수업시간 배운 코드들과 프로젝트 진행하면서 작성.
+- 유튜브, 위키독스에 있는 실습내용 보면서 작성.
+- 티스토리 블로그 : 실습과정 작성했지만 혼잣말이 대부분😂
 <br>
-✔ 파이썬 → 판다스, 크롤링, 시각화 → 머신러닝 → 딥러닝 과정인데 ... 😭<br>
-<br>
-
 
 <img src="https://img.shields.io/badge/Python-1b303f?style=flat-square&logo=Python&logoColor=white" weight = 20, height = 30/></a> 
 <img src="https://img.shields.io/badge/Numpy-4d77cf?style=flat-square&logo=Numpy&logoColor=white" weight = 20, height = 30/></a>
@@ -19,6 +16,12 @@
 <br>
 <br>
 
+**📕 프로젝트 2 - (+공모전지원) 예비창업자들을 위한 업종별, 지역별 데이터를 분석하여 창업 전략 제시**
+<a href="https://github.com/leo-contigo/Mini-ProJect-2" target="_blank"><img src="https://img.shields.io/badge/Github-black?style=flat-square&logo=Github&logoColor=white"/></a> 
+<br>
+
+**📘 프로젝트 3 - 감성분석 Sentiment-Analysis_NLP**
+<a href="https://github.com/leo-contigo/Project_Sentiment-Analysis_NLP" target="_blank"><img src="https://img.shields.io/badge/Github-black?style=flat-square&logo=Github&logoColor=white"/></a> 
 <br>
 <br>
 <br>
