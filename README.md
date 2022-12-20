@@ -17,7 +17,7 @@
 <a href="https://github.com/leo-contigo/Mini-ProJect-2" target="_blank"><img src="https://img.shields.io/badge/Github-black?style=flat-square&logo=Github&logoColor=white"/></a> 
 <br>
 
-**📘 프로젝트 3 - 감성분석 Sentiment-Analysis_NLP**
+**📘 프로젝트 3 - (+공모전지원) 감성분석 Sentiment-Analysis_NLP**
 <a href="https://github.com/leo-contigo/Project_Sentiment-Analysis_NLP" target="_blank"><img src="https://img.shields.io/badge/Github-black?style=flat-square&logo=Github&logoColor=white"/></a> 
 <br>
 <br>
