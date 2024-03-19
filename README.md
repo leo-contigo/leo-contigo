@@ -7,8 +7,7 @@
 - 티스토리 블로그 : 실습과정 작성했지만 혼잣말이 대부분😂
 <br>
 
-### 💜크롤링 <a href="https://github.com/leo-contigo/Python" target="_blank"><img src="https://img.shields.io/badge/Github-black?style=flat-square&logo=Github&logoColor=white"/></a>　💙머신러닝 <a href="https://github.com/leo-contigo/ML" target="_blank"><img src="https://img.shields.io/badge/Github-black?style=flat-square&logo=Github&logoColor=white"/></a>　💚딥러닝 <a href="https://github.com/leo-contigo/DeepLearning" target="_blank"><img src="https://img.shields.io/badge/Github-black?style=flat-square&logo=Github&logoColor=white"/></a>　💛OpenCV(이미지처리) <a href="https://github.com/leo-contigo/OpenCV" target="_blank"><img src="https://img.shields.io/badge/Github-black?style=flat-square&logo=Github&logoColor=white"/></a>
-<br>
+### 💜파이썬 　<a href="https://github.com/leo-contigo/Python" target="_blank"><img src="https://img.shields.io/badge/Github-black?style=flat-square&logo=Github&logoColor=white"/></a>　　💛OpenCV(이미지처리) <a href="https://github.com/leo-contigo/OpenCV" target="_blank"><img src="https://img.shields.io/badge/Github-black?style=flat-square&logo=Github&logoColor=white"/></a> <br>💙머신러닝 <a href="https://github.com/leo-contigo/ML" target="_blank"><img src="https://img.shields.io/badge/Github-black?style=flat-square&logo=Github&logoColor=white"/></a>　　💚딥러닝 <a href="https://github.com/leo-contigo/DeepLearning" target="_blank"><img src="https://img.shields.io/badge/Github-black?style=flat-square&logo=Github&logoColor=white"/></a>　
 <br>
 <br>
 
